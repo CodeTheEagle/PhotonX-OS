@@ -10,7 +10,7 @@ Unlike traditional general-purpose operating systems, PhotonX-OS is engineered w
 
 ## 🎯 Project Goal
 To eliminate the software bottleneck in optical computing.
-While optical processors can perform matrix multiplications at the speed of light ($O(1)$), standard kernels (Linux/Windows) introduce unpredictable latency via interrupts and context switching.
+While optical processors can perform matrix multiplications at the speed of light O(1), standard kernels (Linux/Windows) introduce unpredictable latency via interrupts and context switching.
 
 **PhotonX-OS** solves this by providing direct, deterministic access to the optical data path (Photonic BUS) on **ARM64 (Xilinx Zynq UltraScale+)** architecture.
 
